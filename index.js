@@ -9,6 +9,7 @@ const data = [
     { id: 3, name: "Dylan", age: 51, company: "Nisi Incorporated" },
     { id: 4, name: "Leila", age: 30, company: "Eros Non Limited" },
     { id: 5, name: "Jason", age: 31, company: "Accumsan Interdum Associates" },
+    { id: 5, name: "Jason", age: 31, company: "Accumsan Interdum Associates" },
 ];
 
 const findItem = id => {
